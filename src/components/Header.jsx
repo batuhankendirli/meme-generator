@@ -5,7 +5,7 @@ export default function Header() {
     <header className="header">
       <div className="header-logo">
         <img
-          src="../../public/troll-face.png"
+          src="./troll-face.png"
           alt="Troll face"
           className="header-logo-img"
         />
