@@ -1,4 +1,4 @@
-# Tenzies Game
+# Meme Generator
 
 Generate random memes. Add top and bottom text to the meme. Fun little app.
 
